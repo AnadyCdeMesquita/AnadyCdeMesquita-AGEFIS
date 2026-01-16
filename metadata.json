@@ -1,0 +1,7 @@
+{
+  "name": "Controle de Demanda",
+  "description": "Uma aplicação profissional para registro e monitoramento de demandas de fiscalização, permitindo o acompanhamento de executores, horários de câmeras e status de autuação.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
